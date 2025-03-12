@@ -69,6 +69,70 @@
 <i> Completely heals allies and truces on your death in 10 block radius </i><br>
 <b> Applies to: </b> Leggings  <br>
 
+<b> Famine (IV) </b><br>
+<i> A chance to give your opponent the hunger effect </i><br>
+<b> Applies to: </b> Weapons  <br>
+
+<b> Obsidian Destroyer (V) </b><br>
+<i> Chance to instantly mine obsidian blocks </i><br>
+<b> Applies to: </b> Pickaxe  <br>
+
+<b> Berserk (V) </b><br>
+<i> Chance of strength </i><br>
+<b> Applies to: </b> Axes  <br>
+
+<b> Ward (IV) </b><br>
+<i> A chance to absorb enemy damage and heal you </i><br>
+<b> Applies to: </b> Armor  <br>
+
+<b> Curse (V) </b><br>
+<i> Gives strength, slowness and resistance at low hp </i><br>
+<b> Applies to: </b> Chestplate  <br>
+
+<b> EnderShift (V) </b><br>
+<i> Gives speed/health boost at low hp </i><br>
+<b> Applies to: </b> Helmet, Boots  <br>
+
+<b> Explosive (V) </b><br>
+<i> Explosive arrows </i><br>
+<b> Applies to: </b> Bows  <br>
+
+<b> Featherweight (III) </b><br>
+<i> A chance to give a burst of haste </i><br>
+<b> Applies to: </b> Swords  <br>
+
+<b> Molten (IV) </b><br>
+<i> Chance of setting your attacker ablaze </i><br>
+<b> Applies to: </b> Armor  <br>
+
+<b> Ravenous (IV) </b><br>
+<i> Chance to regain hunger whilst in combat </i><br>
+<b> Applies to: </b> Axes  <br>
+
+<b> Commander (V) </b><br>
+<i> Nearby allies are given haste </i><br>
+<b> Applies to: </b> Armor  <br>
+
+<b> Self Destruct (III) </b><br>
+<i> When close to death, tnt spawns around you to end you and remove your dropped items </i><br>
+<b> Applies to: </b> Armor  <br>
+
+<b> Telepathy (IV) </b><br>
+<i> Automatically places broken blocks in your inventory </i><br>
+<b> Applies to: </b> Tools  <br>
+
+<b> Sustain (IV) </b><br>
+<i> Chance to regain hunger when getting hit </i><br>
+<b> Applies to: </b> Armor  <br>
+
+<b> Skill Swipe (V) </b><br>
+<i> A chance to steal some of your enemy's exp every time you damage them </i><br>
+<b> Applies to: </b> Sword  <br>
+
+<b> Virus (IV) </b><br>
+<i> Multiplies all Wither and Poison effects on the affected target </i><br>
+<b> Applies to: </b> Bows  <br>
+
 
 ## Elite Enchantment
 <b> Lifebloom (III) </b><br>
