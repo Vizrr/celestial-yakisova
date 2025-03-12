@@ -135,24 +135,517 @@
 
 
 ## Elite Enchantment
-<b> Lifebloom (III) </b><br>
-<i> Completely heals allies and truces on your death in 10 block radius </i><br>
+<b> Impact (IV) </b><br>
+<i> Chance to double dealt damage </i><br>
+<b> Applies to: </b> Trident  <br>
+
+<b> Anti Gravity (III) </b><br>
+<i> Super jump </i><br>
+<b> Applies to: </b> Boots  <br>
+
+<b> Ender Slayer (V) </b><br>
+<i> Increases damage dealt to Enderman and Ender dragons </i><br>
+<b> Applies to: </b> Weapons  <br>
+
+<b> Reaper (IV) </b><br>
+<i> A chance to give your opponent the Wither and Blindness effects while dealing damage </i><br>
+<b> Applies to: </b> Axe  <br>
+
+<b> Nether Slayer (V) </b><br>
+<i> Increases damage dealt to Blazes and Zombie Pigmen </i><br>
+<b> Applies to: </b> Weapons  <br>
+
+<b> Blind (III) </b><br>
+<i> A chance of causing blindness when attacking. </i><br>
+<b> Applies to: </b> Swords  <br>
+
+<b> Cactus (II) </b><br>
+<i> Injures your attacker but does not affect your durability </i><br>
+<b> Applies to: </b> Swords  <br>
+
+<b> Execute (VII) </b><br>
+<i> Damage buff when your target is at low HP </i><br>
+<b> Applies to: </b> Swords  <br>
+
+<b> Frozen (III) </b><br>
+<i> Can cause slowness to attacker when defending. </i><br>
+<b> Applies to: </b> Armor  <br>
+
+<b> Paralyze (IV) </b><br>
+<i> Gives lightning effect and a chance for slowness and slow swinging </i><br>
+<b> Applies to: </b> Swords  <br>
+
+<b> Poison (V) </b><br>
+<i> A chance of giving poison effect </i><br>
+<b> Applies to: </b> Weapon  <br>
+
+<b> Poisoned (IV) </b><br>
+<i> Chance to give poison to your attacker </i><br>
+<b> Applies to: </b> Armor  <br>
+
+<b> Reforged (X) </b><br>
+<i> Protects weapons and tools durability, items will be take longer to break </i><br>
+<b> Applies to: </b> Weapon and tools  <br>
+
+<b> Snare (IV) </b><br>
+<i> Chance to slow and fatigue enemies with projectiles </i><br>
+<b> Applies to: </b> Bows  <br>
+
+<b> Springs (III) </b><br>
+<i> Gives jump boost </i><br>
+<b> Applies to: </b> Boots  <br>
+
+<b> Stormcaller (IV) </b><br>
+<i> Strikes lightning on attacking players </i><br>
+<b> Applies to: </b> Armor  <br>
+
+<b> Demonforged (IV) </b><br>
+<i> Increases durability loss on your enemy's armor </i><br>
+<b> Applies to: </b> Swords  <br>
+
+<b> Trap (III) </b><br>
+<i> Chance to give buffed slowness effect </i><br>
+<b> Applies to: </b> Swords  <br>
+
+<b> Undead Ruse (X) </b><br>
+<i> When hit you have a chance to spawn zombie hordes to distract and disorient your opponents </i><br>
+<b> Applies to: </b> Boots  <br>
+
+<b> Venom (III) </b><br>
+<i> A chance of dealing poison </i><br>
+<b> Applies to: </b> Bows  <br>
+
+<b> Voodoo (VI) </b><br>
+<i> Gives a chance to deal weakness </i><br>
+<b> Applies to: </b> Armor  <br>
+
+<b> Wither (V) </b><br>
+<i> A chance to give the wither effect </i><br>
+<b> Applies to: </b> Armor  <br>
+
+<b> Smoke Bomb (VIII) </b><br>
+<i> When you are near death, you will spawn a smoke bomb to distract your enemies </i><br>
+<b> Applies to: </b> Helmet  <br>
+
+<b> Pummel (III) </b><br>
+<i> Chance to slow nearby enemy players for a short period </i><br>
+<b> Applies to: </b> Axe  <br>
+
+<b> Shockwave (V) </b><br>
+<i> Chance to push back your attacker when your health is low </i><br>
+<b> Applies to: </b> Chestplate  <br>
+
+<b> Farcast (V) </b><br>
+<i> Chance to knockback melee attackers by a couple of blocks when they hit you. Increase chance of proccing when your health is low </i><br>
+<b> Applies to: </b> Bow  <br>
+
+<b> Greatsword (V) </b><br>
+<i> Multiplies damage against players who are wielding a BOW at the time they are hit </i><br>
 <b> Applies to: </b> Sword  <br>
+
+<b> Rocket Escape (III) </b><br>
+<i> Blast off into the air at low HP </i><br>
+<b> Applies to: </b> Boots  <br>
+
+<b> Hijack (IV) </b><br>
+<i> Chance to convert summoned enemy Guardians into your own when they are shot with an arrow. </i><br>
+<b> Applies to: </b> Bow  <br>
+
+<b> Shackle (III) </b><br>
+<i> Your attacks pull mob toward you </i><br>
+<b> Applies to: </b> Swords  <br>
 
 
 ## Ultimate Enchantment
-<b> Barbarian (IV)  </b><br>
-<i> Chance to inflicts more axe damage </i><br>
+<b> Planter (III) </b><br>
+<i> Plants seeds in a 3x3 area </i><br>
+<b> Applies to: </b> Hoes  <br>
+
+<b> Jelly Legs (III) </b><br>
+<i> Chance to negate fall damage </i><br>
+<b> Applies to: </b> Boots  <br>
+
+<b> Restore (IV) </b><br>
+<i> Upon breaking, item has a chance to lose this enchantment and repair half of its durability </i><br>
+<b> Applies to: </b> Tools  <br>
+
+<b> Timber (III) </b><br>
+<i> Chance to break a tree in one hit </i><br>
+<b> Applies to: </b> Axes  <br>
+
+<b> Pickpocket (III) </b><br>
+<i> Chance to steal in-game money whilst fighting </i><br>
+<b> Applies to: </b> Weapons  <br>
+
+<b> Distance (IV) </b><br>
+<i> Chance to distance yourself from your enemies and gain regeneration </i><br>
+<b> Applies to: </b> Weapons  <br>
+
+<b> Reinforced (IV) </b><br>
+<i> Take less damage when being hit from behind </i><br>
+<b> Applies to: </b> Armor  <br>
+
+<b> Cleave (VII) </b><br>
+<i> Damages players within a radius that increases with the level of enchant </i><br>
+<b> Applies to: </b> Axes  <br>
+
+<b> Arrow Lifesteal (V) </b><br>
+<i> Chance to steal health from opponent </i><br>
+<b> Applies to: </b> Bows  <br>
+
+<b> Arrow Deflect (IV) </b><br>
+<i> Chance to prevent enemy arrow from dealing damage </i><br>
+<b> Applies to: </b> Armor  <br>
+
+<b> Arrow Break (VI) </b><br>
+<i> Chance for arrows to bounce off and do no damage to you whenever you are wielding an axe with this enchantment on it </i><br>
 <b> Applies to: </b> Axe  <br>
+
+<b> Assassin (V) </b><br>
+<i> The closer you are to your enemy, the more damage you deal (up to 1.25x). However, if you are more than 2 blocks away, you will deal LESS damage than normal </i><br>
+<b> Applies to: </b> Sword  <br>
+
+<b> Blessed (IV) </b><br>
+<i> A chance of removing debuffs </i><br>
+<b> Applies to: </b> Axes  <br>
+
+<b> Corrupt (IV) </b><br>
+<i> Deal damage over time </i><br>
+<b> Applies to: </b> Axes  <br>
+
+<b> Ragdoll (IV) </b><br>
+<i> Whenever you take damage you are pushed far back </i><br>
+<b> Applies to: </b> Armor  <br>
+
+<b> Block (III) </b><br>
+<i> A chance to negate an attack and deal up to 4 damage back </i><br>
+<b> Applies to: </b> Swords  <br>
+
+<b> Dodge (V) </b><br>
+<i> Chance to dodge physical enemy attacks, increased chance if sneaking </i><br>
+<b> Applies to: </b> Armor  <br>
+
+<b> Enrage (III) </b><br>
+<i> Deal more damage on low HP </i><br>
+<b> Applies to: </b> Swords  <br>
+
+<b> Guardians (X) </b><br>
+<i> A chance to spawn iron golems to assist you and watch over you </i><br>
+<b> Applies to: </b> Armor  <br>
+
+<b> Ice Aspect (III) </b><br>
+<i> A chance of causing the slowness effect on your enemy </i><br>
+<b> Applies to: </b> Swords  <br>
+
+<b> Obsidianshield (I) </b><br>
+<i> Gives permanent fire resistance </i><br>
+<b> Applies to: </b> Armor  <br>
+
+<b> Demonic (III) </b><br>
+<i> A chance to remove fire resistance from your enemy </i><br>
+<b> Applies to: </b> Armor  <br>
+
+<b> Piercing (V) </b><br>
+<i> Inflicts more damage </i><br>
+<b> Applies to: </b> Bows  <br>
+
+<b> Marksman (IV) </b><br>
+<i> Increases damage dealt with bows </i><br>
+<b> Applies to: </b> Armor  <br>
+
+<b> Disappear (IV) </b><br>
+<i> Chance to become invisible when low on health </i><br>
+<b> Applies to: </b> Armor  <br>
+
+<b> Disintegrate (IV) </b><br>
+<i> Chance to deal extra durability damage to all enemy armor with every attack </i><br>
+<b> Applies to: </b> Swords  <br>
+
+<b> Dominate (IV) </b><br>
+<i> Chance to weaken enemy players when attacked, causing them to deal less damage </i><br>
+<b> Applies to: </b> Swords  <br>
+
+<b> Arsonist (III) </b><br>
+<i> Chance to deal more damage whilst on fire </i><br>
+<b> Applies to: </b> Swords  <br>
+
+<b> Ender Walker (V) </b><br>
+<i> Chance to cure Wither and Poison when attacked and heal at high levels </i><br>
+<b> Applies to: </b> Boots  <br>
+
+<b> Eagle Eye (V) </b><br>
+<i> Chance to deal less 1-4 durability damage to ALL armor pieces of enemy player </i><br>
+<b> Applies to: </b> Bow  <br>
+
+<b> Annihilate (VI) </b><br>
+<i> Demolish your opponent's armor quicker! </i><br>
+<b> Applies to: </b> Axes  <br>
+
+<b> Heavy (V) </b><br>
+<i> Decreases damage from enemy bows by 2% per level </i><br>
+<b> Applies to: </b> Armor  <br>
+
+<b> Hellfire (V) </b><br>
+<i> All arrows shot by you turn into explosive fireballs when in contact with the enemy </i><br>
+<b> Applies to: </b> Bow  <br>
+
+<b> Longbow (IV) </b><br>
+<i> Greatly increases damage dealt to enemy players that have a bow in their hands </i><br>
+<b> Applies to: </b> Bow  <br>
+
+<b> Tank (IV) </b><br>
+<i> Chance to decreases damage from enemy axes by 2% per level </i><br>
+<b> Applies to: </b> Armor  <br>
+
+<b> Unfocus (V) </b><br>
+<i> Chance to Unfocus target player, reducing their out going bow damage by 50% for up to 10 seconds </i><br>
+<b> Applies to: </b> Bow  <br>
+
+<b> Valor (V) </b><br>
+<i> Chance to reduces incoming damage while wielding a sword by up to 22% at max level </i><br>
+<b> Applies to: </b> Armor  <br>
+
+<b> Pacify (IV) </b><br>
+<i> A chance to pacify your target, dealing 1-4 damage and stopping their next attack on you </i><br>
+<b> Applies to: </b> Bow  <br>
+
+<b> Metaphysical (IV) </b><br>
+<i> A chance to be cured of Slowness when attacked. At max level, you will only be affected approx. 10% of the time </i><br>
+<b> Applies to: </b> Boots  <br>
+
+<b> Creeper Armor (III) </b><br>
+<i> Chance to be immune to explosive damage, at higher levels you have a chance to heal </i><br>
+<b> Applies to: </b> Armor  <br>
+
+<b> Spirits (X) </b><br>
+<i> Chance to spawn blazes that heal yourself and your allies in combat </i><br>
+<b> Applies to: </b> Armor  <br>
+
+<b> Bleed (VI) </b><br>
+<i> Applies bleed stacks to enemies that decrease their movement speed </i><br>
+<b> Applies to: </b> Axes  <br>
 
 
 ## Legendary Enchantment
-<b> Bewitched Hex (IV) </b><br>
-<i> Once a target is affected by Bewitched Hex, a portion of all their outgoing damage is reduced. When attacked, they receives extra damage (Requires Hex IV) </i><br>
-<b> Applies to: </b> Axe  <br>
+<b> Obliterate (V) </b><br>
+<i> Extreme knockback </i><br>
+<b> Applies to: </b> Swords  <br>
+
+<b> Obliterate (V) </b><br>
+<i> Extreme knockback </i><br>
+<b> Applies to: </b> Swords  <br>
+
+<b> Obliterate (V) </b><br>
+<i> Extreme knockback </i><br>
+<b> Applies to: </b> Swords  <br>
+
+<b> Obliterate (V) </b><br>
+<i> Extreme knockback </i><br>
+<b> Applies to: </b> Swords  <br>
+
+<b> Obliterate (V) </b><br>
+<i> Extreme knockback </i><br>
+<b> Applies to: </b> Swords  <br>
+
+<b> Obliterate (V) </b><br>
+<i> Extreme knockback </i><br>
+<b> Applies to: </b> Swords  <br>
+
+<b> Obliterate (V) </b><br>
+<i> Extreme knockback </i><br>
+<b> Applies to: </b> Swords  <br>
+
+<b> Obliterate (V) </b><br>
+<i> Extreme knockback </i><br>
+<b> Applies to: </b> Swords  <br>
+
+<b> Obliterate (V) </b><br>
+<i> Extreme knockback </i><br>
+<b> Applies to: </b> Swords  <br>
+
+<b> Obliterate (V) </b><br>
+<i> Extreme knockback </i><br>
+<b> Applies to: </b> Swords  <br>
+
+<b> Obliterate (V) </b><br>
+<i> Extreme knockback </i><br>
+<b> Applies to: </b> Swords  <br>
+
+<b> Obliterate (V) </b><br>
+<i> Extreme knockback </i><br>
+<b> Applies to: </b> Swords  <br>
+
+<b> Obliterate (V) </b><br>
+<i> Extreme knockback </i><br>
+<b> Applies to: </b> Swords  <br>
+
+<b> Obliterate (V) </b><br>
+<i> Extreme knockback </i><br>
+<b> Applies to: </b> Swords  <br>
+
+<b> Obliterate (V) </b><br>
+<i> Extreme knockback </i><br>
+<b> Applies to: </b> Swords  <br>
+
+<b> Obliterate (V) </b><br>
+<i> Extreme knockback </i><br>
+<b> Applies to: </b> Swords  <br>
+
+<b> Obliterate (V) </b><br>
+<i> Extreme knockback </i><br>
+<b> Applies to: </b> Swords  <br>
+
+<b> Obliterate (V) </b><br>
+<i> Extreme knockback </i><br>
+<b> Applies to: </b> Swords  <br>
+
+<b> Obliterate (V) </b><br>
+<i> Extreme knockback </i><br>
+<b> Applies to: </b> Swords  <br>
+
+<b> Obliterate (V) </b><br>
+<i> Extreme knockback </i><br>
+<b> Applies to: </b> Swords  <br>
+
+<b> Obliterate (V) </b><br>
+<i> Extreme knockback </i><br>
+<b> Applies to: </b> Swords  <br>
+
+<b> Obliterate (V) </b><br>
+<i> Extreme knockback </i><br>
+<b> Applies to: </b> Swords  <br>
+
+<b> Obliterate (V) </b><br>
+<i> Extreme knockback </i><br>
+<b> Applies to: </b> Swords  <br>
+
+<b> Obliterate (V) </b><br>
+<i> Extreme knockback </i><br>
+<b> Applies to: </b> Swords  <br>
+
+<b> Obliterate (V) </b><br>
+<i> Extreme knockback </i><br>
+<b> Applies to: </b> Swords  <br>
+
+<b> Obliterate (V) </b><br>
+<i> Extreme knockback </i><br>
+<b> Applies to: </b> Swords  <br>
+
+<b> Obliterate (V) </b><br>
+<i> Extreme knockback </i><br>
+<b> Applies to: </b> Swords  <br>
+
+<b> Obliterate (V) </b><br>
+<i> Extreme knockback </i><br>
+<b> Applies to: </b> Swords  <br>
 
 
 ## Heroic Enchantment
+<b> Obliterate (V) </b><br>
+<i> Extreme knockback </i><br>
+<b> Applies to: </b> Swords  <br>
+
+<b> Obliterate (V) </b><br>
+<i> Extreme knockback </i><br>
+<b> Applies to: </b> Swords  <br>
+
+<b> Obliterate (V) </b><br>
+<i> Extreme knockback </i><br>
+<b> Applies to: </b> Swords  <br>
+
+<b> Obliterate (V) </b><br>
+<i> Extreme knockback </i><br>
+<b> Applies to: </b> Swords  <br>
+
+<b> Obliterate (V) </b><br>
+<i> Extreme knockback </i><br>
+<b> Applies to: </b> Swords  <br>
+
+<b> Obliterate (V) </b><br>
+<i> Extreme knockback </i><br>
+<b> Applies to: </b> Swords  <br>
+
+<b> Obliterate (V) </b><br>
+<i> Extreme knockback </i><br>
+<b> Applies to: </b> Swords  <br>
+
+<b> Obliterate (V) </b><br>
+<i> Extreme knockback </i><br>
+<b> Applies to: </b> Swords  <br>
+
+<b> Obliterate (V) </b><br>
+<i> Extreme knockback </i><br>
+<b> Applies to: </b> Swords  <br>
+
+<b> Obliterate (V) </b><br>
+<i> Extreme knockback </i><br>
+<b> Applies to: </b> Swords  <br>
+
+<b> Obliterate (V) </b><br>
+<i> Extreme knockback </i><br>
+<b> Applies to: </b> Swords  <br>
+
+<b> Obliterate (V) </b><br>
+<i> Extreme knockback </i><br>
+<b> Applies to: </b> Swords  <br>
+
+<b> Obliterate (V) </b><br>
+<i> Extreme knockback </i><br>
+<b> Applies to: </b> Swords  <br>
+
+<b> Obliterate (V) </b><br>
+<i> Extreme knockback </i><br>
+<b> Applies to: </b> Swords  <br>
+
+<b> Obliterate (V) </b><br>
+<i> Extreme knockback </i><br>
+<b> Applies to: </b> Swords  <br>
+
+<b> Obliterate (V) </b><br>
+<i> Extreme knockback </i><br>
+<b> Applies to: </b> Swords  <br>
+
+<b> Obliterate (V) </b><br>
+<i> Extreme knockback </i><br>
+<b> Applies to: </b> Swords  <br>
+
+<b> Obliterate (V) </b><br>
+<i> Extreme knockback </i><br>
+<b> Applies to: </b> Swords  <br>
+
+<b> Obliterate (V) </b><br>
+<i> Extreme knockback </i><br>
+<b> Applies to: </b> Swords  <br>
+
+<b> Obliterate (V) </b><br>
+<i> Extreme knockback </i><br>
+<b> Applies to: </b> Swords  <br>
+
+<b> Obliterate (V) </b><br>
+<i> Extreme knockback </i><br>
+<b> Applies to: </b> Swords  <br>
+
+<b> Obliterate (V) </b><br>
+<i> Extreme knockback </i><br>
+<b> Applies to: </b> Swords  <br>
+
+<b> Obliterate (V) </b><br>
+<i> Extreme knockback </i><br>
+<b> Applies to: </b> Swords  <br>
+
+<b> Obliterate (V) </b><br>
+<i> Extreme knockback </i><br>
+<b> Applies to: </b> Swords  <br>
+
+<b> Obliterate (V) </b><br>
+<i> Extreme knockback </i><br>
+<b> Applies to: </b> Swords  <br>
+
+<b> Obliterate (V) </b><br>
+<i> Extreme knockback </i><br>
+<b> Applies to: </b> Swords  <br>
+
+
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 Made by streakyy.
