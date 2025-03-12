@@ -427,117 +427,117 @@
 
 
 ## Legendary Enchantment
-<b> Obliterate (V) </b><br>
-<i> Extreme knockback </i><br>
+<b> Twinge (IV) </b><br>
+<i> Make your enemy bleed, if hit using melee attack </i><br>
+<b> Applies to: </b> Trident  <br>
+
+<b> Lava Walker (I) </b><br>
+<i> Walks on Lava </i><br>
+<b> Applies to: </b> Boots  <br>
+
+<b> Impale (IV) </b><br>
+<i> Chance to deal HUGE amounts of damage to your opponent, causing Slowness V for some time </i><br>
+<b> Applies to: </b> Bow  <br>
+
+<b> Protection (V) </b><br>
+<i> Automatically heals and cures all nearby faction allies </i><br>
+<b> Applies to: </b> Armor  <br>
+
+<b> Torrent (IV) </b><br>
+<i> Deal increased damage while in water </i><br>
 <b> Applies to: </b> Swords  <br>
 
-<b> Obliterate (V) </b><br>
-<i> Extreme knockback </i><br>
+<b> Judgement (V) </b><br>
+<i> Chance of dealing poison damage to your target and adding regeneration to yourself </i><br>
+<b> Applies to: </b> Armor  <br>
+
+<b> Stun (III) </b><br>
+<i> Chance to slow opponent, make them feel weak, and remove slowness from you </i><br>
+<b> Applies to: </b> Weapons  <br>
+
+<b> Unholy (V) </b><br>
+<i> Chance to give weakness and wither to your attacker </i><br>
+<b> Applies to: </b> Armor  <br>
+
+<b> Quiver (VI) </b><br>
+<i> Chance to fling your attackers in to the air </i><br>
+<b> Applies to: </b> Boots  <br>
+
+<b> Hex (IV) </b><br>
+<i> Once a target is affected by Hex, a portion of all their outgoing damage is decreased. 3-7 damage is reflected back to them </i><br>
+<b> Applies to: </b> Axes  <br>
+
+<b> Barbarian (IV) </b><br>
+<i> Chance to inflict more axe damage </i><br>
+<b> Applies to: </b> Axes  <br>
+
+<b> Clarity (III) </b><br>
+<i> Cure blindness when attacked </i><br>
+<b> Applies to: </b> Armor  <br>
+
+<b> Deathbringer (III) </b><br>
+<i> Chance to deal double damage </i><br>
+<b> Applies to: </b> Armor  <br>
+
+<b> Double Strike (III) </b><br>
+<i> A chance to strike twice </i><br>
 <b> Applies to: </b> Swords  <br>
 
-<b> Obliterate (V) </b><br>
-<i> Extreme knockback </i><br>
+<b> Drunk (IV) </b><br>
+<i> Slowness and slow swinging with a chance to get strength </i><br>
+<b> Applies to: </b> Helmet  <br>
+
+<b> Enlighted (III) </b><br>
+<i> Can heal hearts while taking damage </i><br>
+<b> Applies to: </b> Armor  <br>
+
+<b> Gears (III) </b><br>
+<i> Added speed when equipped </i><br>
+<b> Applies to: </b> Boots  <br>
+
+<b> Kill Aura (V) </b><br>
+<i> Chance to kill multiple monsters\nin a stack each death event </i><br>
 <b> Applies to: </b> Swords  <br>
 
-<b> Obliterate (V) </b><br>
-<i> Extreme knockback </i><br>
+<b> Inquisitive (IV) </b><br>
+<i> Chance to increase EXP drops from mobs </i><br>
 <b> Applies to: </b> Swords  <br>
 
-<b> Obliterate (V) </b><br>
-<i> Extreme knockback </i><br>
+<b> Inversion (OV) </b><br>
+<i> Damage dealt to you has a chance to be blocked and heal you for 1-5 HP </i><br>
 <b> Applies to: </b> Swords  <br>
 
-<b> Obliterate (V) </b><br>
-<i> Extreme knockback </i><br>
+<b> Lifesteal (V) </b><br>
+<i> A chance to steal health when attacking </i><br>
 <b> Applies to: </b> Swords  <br>
 
-<b> Obliterate (V) </b><br>
-<i> Extreme knockback </i><br>
+<b> Rage (VI) </b><br>
+<i> For every combo hit you land, chance to do 0.5 heart damage per combo to your opponent. Up to 5 max combo hits </i><br>
+<b> Applies to: </b> Weapon  <br>
+
+<b> Armored (IV) </b><br>
+<i> Decreases damage from enemy swords by 2% per level </i><br>
 <b> Applies to: </b> Swords  <br>
 
-<b> Obliterate (V) </b><br>
-<i> Extreme knockback </i><br>
-<b> Applies to: </b> Swords  <br>
+<b> Exterminator (III) </b><br>
+<i> When attacked, chance to temporarily disables enemy ability to use Undead Ruse, Guadians, and Spirits </i><br>
+<b> Applies to: </b> Leggings  <br>
 
-<b> Obliterate (V) </b><br>
-<i> Extreme knockback </i><br>
-<b> Applies to: </b> Swords  <br>
+<b> Devour (IV) </b><br>
+<i> Chance to multiplies damage dealt to players with active bleed stacks </i><br>
+<b> Applies to: </b> Axe  <br>
 
-<b> Obliterate (V) </b><br>
-<i> Extreme knockback </i><br>
-<b> Applies to: </b> Swords  <br>
+<b> Diminish (VI) </b><br>
+<i> When this effect procs, the next attack dealt to you cannot deal more than the (total amount of damage / 2) you took from the previous attack </i><br>
+<b> Applies to: </b> Chestplate  <br>
 
-<b> Obliterate (V) </b><br>
-<i> Extreme knockback </i><br>
-<b> Applies to: </b> Swords  <br>
+<b> Sniper (V) </b><br>
+<i> Headshots with projectile deal up to 3.5x damage </i><br>
+<b> Applies to: </b> Bow  <br>
 
-<b> Obliterate (V) </b><br>
-<i> Extreme knockback </i><br>
-<b> Applies to: </b> Swords  <br>
-
-<b> Obliterate (V) </b><br>
-<i> Extreme knockback </i><br>
-<b> Applies to: </b> Swords  <br>
-
-<b> Obliterate (V) </b><br>
-<i> Extreme knockback </i><br>
-<b> Applies to: </b> Swords  <br>
-
-<b> Obliterate (V) </b><br>
-<i> Extreme knockback </i><br>
-<b> Applies to: </b> Swords  <br>
-
-<b> Obliterate (V) </b><br>
-<i> Extreme knockback </i><br>
-<b> Applies to: </b> Swords  <br>
-
-<b> Obliterate (V) </b><br>
-<i> Extreme knockback </i><br>
-<b> Applies to: </b> Swords  <br>
-
-<b> Obliterate (V) </b><br>
-<i> Extreme knockback </i><br>
-<b> Applies to: </b> Swords  <br>
-
-<b> Obliterate (V) </b><br>
-<i> Extreme knockback </i><br>
-<b> Applies to: </b> Swords  <br>
-
-<b> Obliterate (V) </b><br>
-<i> Extreme knockback </i><br>
-<b> Applies to: </b> Swords  <br>
-
-<b> Obliterate (V) </b><br>
-<i> Extreme knockback </i><br>
-<b> Applies to: </b> Swords  <br>
-
-<b> Obliterate (V) </b><br>
-<i> Extreme knockback </i><br>
-<b> Applies to: </b> Swords  <br>
-
-<b> Obliterate (V) </b><br>
-<i> Extreme knockback </i><br>
-<b> Applies to: </b> Swords  <br>
-
-<b> Obliterate (V) </b><br>
-<i> Extreme knockback </i><br>
-<b> Applies to: </b> Swords  <br>
-
-<b> Obliterate (V) </b><br>
-<i> Extreme knockback </i><br>
-<b> Applies to: </b> Swords  <br>
-
-<b> Obliterate (V) </b><br>
-<i> Extreme knockback </i><br>
-<b> Applies to: </b> Swords  <br>
-
-<b> Obliterate (V) </b><br>
-<i> Extreme knockback </i><br>
-<b> Applies to: </b> Swords  <br>
-
-<b> Obliterate (V) </b><br>
-<i> Extreme knockback </i><br>
-<b> Applies to: </b> Swords  <br>
+<b> Destruction (V) </b><br>
+<i> Chance to damages and debuffs all nearby enemies when attacked </i><br>
+<b> Applies to: </b> Helmet  <br>
 
 
 ## Heroic Enchantment
