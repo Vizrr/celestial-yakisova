@@ -541,111 +541,111 @@
 
 
 ## Heroic Enchantment
-<b> Obliterate (V) </b><br>
-<i> Extreme knockback </i><br>
+<b> Detonate (IX) </b><br>
+<i> Chance to break in 3x3 area </i><br>
+<b> Applies to: </b> Pickaxe and shovels  <br>
+
+<b> Silence   (IV) </b><br>
+<i> Chance to stop activation of your enemy's custom armor enchants </i><br>
 <b> Applies to: </b> Swords  <br>
 
-<b> Obliterate (V) </b><br>
-<i> Extreme knockback </i><br>
+<b> Death God (III) </b><br>
+<i> Attacks that bring your HP to (level+4) hearts or lower have a chance to heal you for (level+5) hearts instead </i><br>
+<b> Applies to: </b> Helmet  <br>
+
+<b> Insanity (VIII) </b><br>
+<i> You swing your sword like an extreme maniac. Chance to multiply damage against players who are wielding a SWORD at the time they are hit Requires Insanity VIII to apply </i><br>
+<b> Applies to: </b> Axes  <br>
+
+<b> Mega Heavy (V) </b><br>
+<i> Chance to decreases Damage from enemy bows by 10% plus an additional 2% per level. Requires Heavy V to apply </i><br>
 <b> Applies to: </b> Swords  <br>
 
-<b> Obliterate (V) </b><br>
-<i> Extreme knockback </i><br>
+<b> Bewitched Hex (IV) </b><br>
+<i> Once a target is affected with Bewitched Hex, a portion of all their outgoing damage is reduced. When attacked, they receives extra damage Requires Hex IV to apply </i><br>
+<b> Applies to: </b> Axes  <br>
+
+<b> Mighty Cleave (V) </b><br>
+<i> Chance to deals up to 8 damage in up to a 4 block radius. Requires Cleave VII to apply </i><br>
+<b> Applies to: </b> Axes  <br>
+
+<b> Mighty Cactus (II) </b><br>
+<i> Chance to stop enemy attack and injures your attacker but does not affect your durability. Requires Cactus II to apply </i><br>
 <b> Applies to: </b> Swords  <br>
 
-<b> Obliterate (V) </b><br>
-<i> Extreme knockback </i><br>
+<b> Guided Rocket Escape (III) </b><br>
+<i> Chance to blast off into the air at low health and briefly gain flight for (level x 1s). Requires Rocket Escape III to apply </i><br>
+<b> Applies to: </b> Boots  <br>
+
+<b> Polymorphic Metaphysical (IV) </b><br>
+<i> A chance to be cured of Slowness when attacked. At max level, you will only be affected approx. 10% of the time. Requires Metaphysical IV to apply </i><br>
+<b> Applies to: </b> Boots  <br>
+
+<b> Soulbound (III) </b><br>
+<i> A chance to keep item on death </i><br>
+<b> Applies to: </b> Weapons, Tools, Bows  <br>
+
+<b> Reinforced Tank (IV) </b><br>
+<i> Decreases damage from enemy axes by 6% + 2% per level. Requires Tank IV to apply </i><br>
+<b> Applies to: </b> Armor  <br>
+
+<b> Epidemic Carrier (VIII) </b><br>
+<i> When near death, chance to summons creepers and debuffs to avenge you. Requires Plague Carrier VIII to apply </i><br>
+<b> Applies to: </b> Leggings  <br>
+
+<b> Reflective Block (III) </b><br>
+<i> A chance to greatly or completely  negate incoming damage while blocking, and to reflect an incoming attack back on the attacker whether you are blocking or not. Requires Block III to apply </i><br>
 <b> Applies to: </b> Swords  <br>
 
-<b> Obliterate (V) </b><br>
-<i> Extreme knockback </i><br>
+<b> Master Inquisitive (IV) </b><br>
+<i> Chance to massively increases EXP drops from mobs. Requires Inquisitive IV enchant on item to apply </i><br>
 <b> Applies to: </b> Swords  <br>
 
-<b> Obliterate (V) </b><br>
-<i> Extreme knockback </i><br>
+<b> Planetary Deathbringer (III) </b><br>
+<i> An increased chance to deal 1.5x damage. Requires Deathbringer III enchant on item to apply </i><br>
+<b> Applies to: </b> Armor  <br>
+
+<b> Divine Enlighted (III) </b><br>
+<i> High chance of healing lots of HP while taking damage. Requires Enlighted III enchant on item to apply </i><br>
+<b> Applies to: </b> Armor  <br>
+
+<b> Lethal Sniper (V) </b><br>
+<i> Increased headshot chance and multiplied damage up to 4.5x. Requires Sniper V enchant on item to apply </i><br>
 <b> Applies to: </b> Swords  <br>
 
-<b> Obliterate (V) </b><br>
-<i> Extreme knockback </i><br>
+<b> Titan Trap (III) </b><br>
+<i> A chance to give a longer lasting buffed slowness effect. Requires Trap III to apply </i><br>
 <b> Applies to: </b> Swords  <br>
 
-<b> Obliterate (V) </b><br>
-<i> Extreme knockback </i><br>
+<b> Bidirectional Teleportation (IV) </b><br>
+<i> Chance to grapple an enemy towards you </i><br>
+<b> Applies to: </b> Bows  <br>
+
+<b> Vengeful Diminish (VI) </b><br>
+<i> Ensures that the next strike against you only deals 50% of the damage inflicted and any extra above that will be returned to the attacker. Requires Diminish VI enchant on item to apply </i><br>
+<b> Applies to: </b> Chestplate  <br>
+
+<b> Ethereal Dodge (I) </b><br>
+<i> Increased proc rate over normal Dodge, with a small chance to gain Speed V for a few seconds on successful dodge. Requires Dodge V  </i><br>
+<b> Applies to: </b> Armor  <br>
+
+<b> Paladin Armored (IV) </b><br>
+<i> Negates 10 + 5 per level of enemy sword damage. A chance to be Blessed every time you are struck by an enemy sword. Requires Armored IV </i><br>
+<b> Applies to: </b> Armor  <br>
+
+<b> Demonic Lifesteal (V) </b><br>
+<i> Heals much more HP at a greatly increased rate compared to normal Lifesteal. Requires Lifesteal V </i><br>
 <b> Applies to: </b> Swords  <br>
 
-<b> Obliterate (V) </b><br>
-<i> Extreme knockback </i><br>
-<b> Applies to: </b> Swords  <br>
+<b> Deep Bleed (VI) </b><br>
+<i> A chance to affect foes with increased slowness and inflict more damage. Requires Bleed VI </i><br>
+<b> Applies to: </b> Axe  <br>
 
-<b> Obliterate (V) </b><br>
-<i> Extreme knockback </i><br>
-<b> Applies to: </b> Swords  <br>
-
-<b> Obliterate (V) </b><br>
-<i> Extreme knockback </i><br>
-<b> Applies to: </b> Swords  <br>
-
-<b> Obliterate (V) </b><br>
-<i> Extreme knockback </i><br>
-<b> Applies to: </b> Swords  <br>
-
-<b> Obliterate (V) </b><br>
-<i> Extreme knockback </i><br>
-<b> Applies to: </b> Swords  <br>
-
-<b> Obliterate (V) </b><br>
-<i> Extreme knockback </i><br>
-<b> Applies to: </b> Swords  <br>
-
-<b> Obliterate (V) </b><br>
-<i> Extreme knockback </i><br>
-<b> Applies to: </b> Swords  <br>
-
-<b> Obliterate (V) </b><br>
-<i> Extreme knockback </i><br>
-<b> Applies to: </b> Swords  <br>
-
-<b> Obliterate (V) </b><br>
-<i> Extreme knockback </i><br>
-<b> Applies to: </b> Swords  <br>
-
-<b> Obliterate (V) </b><br>
-<i> Extreme knockback </i><br>
-<b> Applies to: </b> Swords  <br>
-
-<b> Obliterate (V) </b><br>
-<i> Extreme knockback </i><br>
-<b> Applies to: </b> Swords  <br>
-
-<b> Obliterate (V) </b><br>
-<i> Extreme knockback </i><br>
-<b> Applies to: </b> Swords  <br>
-
-<b> Obliterate (V) </b><br>
-<i> Extreme knockback </i><br>
-<b> Applies to: </b> Swords  <br>
-
-<b> Obliterate (V) </b><br>
-<i> Extreme knockback </i><br>
-<b> Applies to: </b> Swords  <br>
-
-<b> Obliterate (V) </b><br>
-<i> Extreme knockback </i><br>
-<b> Applies to: </b> Swords  <br>
-
-<b> Obliterate (V) </b><br>
-<i> Extreme knockback </i><br>
-<b> Applies to: </b> Swords  <br>
-
-<b> Obliterate (V) </b><br>
-<i> Extreme knockback </i><br>
-<b> Applies to: </b> Swords  <br>
-
-<b> Obliterate (V) </b><br>
-<i> Extreme knockback </i><br>
+<b> Shadow Assassin (V) </b><br>
+<i> The closer you are to your enemy, the more damage you deal (up to 1.875x). However, if you are more than 2 blocks away, you will deal LESS damage than normal. Requires Assassin V </i><br>
 <b> Applies to: </b> Swords  <br>
 
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------
-Made by streakyy.
+Made by yours truly Sxge
