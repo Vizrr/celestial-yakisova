@@ -161,7 +161,7 @@
 
 <b> Cactus (II) </b><br>
 <i> Injures your attacker but does not affect your durability </i><br>
-<b> Applies to: </b> Swords  <br>
+<b> Applies to: </b> Armor  <br>
 
 <b> Execute (VII) </b><br>
 <i> Damage buff when your target is at low HP </i><br>
