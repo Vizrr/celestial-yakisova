@@ -571,7 +571,7 @@
 
 <b> Mighty Cactus (II) </b><br>
 <i> Chance to stop enemy attack and injures your attacker but does not affect your durability. Requires Cactus II to apply </i><br>
-<b> Applies to: </b> Swords  <br>
+<b> Applies to: </b> Armor  <br>
 
 <b> Guided Rocket Escape (III) </b><br>
 <i> Chance to blast off into the air at low health and briefly gain flight for (level x 1s). Requires Rocket Escape III to apply </i><br>
@@ -611,7 +611,7 @@
 
 <b> Lethal Sniper (V) </b><br>
 <i> Increased headshot chance and multiplied damage up to 4.5x. Requires Sniper V enchant on item to apply </i><br>
-<b> Applies to: </b> Swords  <br>
+<b> Applies to: </b> Bows  <br>
 
 <b> Titan Trap (III) </b><br>
 <i> A chance to give a longer lasting buffed slowness effect. Requires Trap III to apply </i><br>
