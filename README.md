@@ -559,7 +559,7 @@
 
 <b> Mega Heavy (V) </b><br>
 <i> Chance to decreases Damage from enemy bows by 10% plus an additional 2% per level. Requires Heavy V to apply </i><br>
-<b> Applies to: </b> Swords  <br>
+<b> Applies to: </b> Armor  <br>
 
 <b> Bewitched Hex (IV) </b><br>
 <i> Once a target is affected with Bewitched Hex, a portion of all their outgoing damage is reduced. When attacked, they receives extra damage Requires Hex IV to apply </i><br>
