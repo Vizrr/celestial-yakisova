@@ -507,7 +507,7 @@
 <i> Chance to increase EXP drops from mobs </i><br>
 <b> Applies to: </b> Swords  <br>
 
-<b> Inversion (OV) </b><br>
+<b> Inversion (V) </b><br>
 <i> Damage dealt to you has a chance to be blocked and heal you for 1-5 HP </i><br>
 <b> Applies to: </b> Swords  <br>
 
