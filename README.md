@@ -431,6 +431,10 @@
 <i> Make your enemy bleed, if hit using melee attack </i><br>
 <b> Applies to: </b> Trident  <br>
 
+<b> Replanter (I) </b><br>
+<i> Replants crops when you break them </i><br>
+<b> Applies to: </b> Hoes  <br>
+
 <b> Lava Walker (I) </b><br>
 <i> Walks on Lava </i><br>
 <b> Applies to: </b> Boots  <br>
@@ -553,10 +557,6 @@
 <i> Attacks that bring your HP to (level+4) hearts or lower have a chance to heal you for (level+5) hearts instead </i><br>
 <b> Applies to: </b> Helmet  <br>
 
-<b> Insanity (VIII) </b><br>
-<i> You swing your sword like an extreme maniac. Chance to multiply damage against players who are wielding a SWORD at the time they are hit Requires Insanity VIII to apply </i><br>
-<b> Applies to: </b> Axes  <br>
-
 <b> Mega Heavy (V) </b><br>
 <i> Chance to decreases Damage from enemy bows by 10% plus an additional 2% per level. Requires Heavy V to apply </i><br>
 <b> Applies to: </b> Armor  <br>
@@ -581,17 +581,9 @@
 <i> A chance to be cured of Slowness when attacked. At max level, you will only be affected approx. 10% of the time. Requires Metaphysical IV to apply </i><br>
 <b> Applies to: </b> Boots  <br>
 
-<b> Soulbound (III) </b><br>
-<i> A chance to keep item on death </i><br>
-<b> Applies to: </b> Weapons, Tools, Bows  <br>
-
 <b> Reinforced Tank (IV) </b><br>
 <i> Decreases damage from enemy axes by 6% + 2% per level. Requires Tank IV to apply </i><br>
 <b> Applies to: </b> Armor  <br>
-
-<b> Epidemic Carrier (VIII) </b><br>
-<i> When near death, chance to summons creepers and debuffs to avenge you. Requires Plague Carrier VIII to apply </i><br>
-<b> Applies to: </b> Leggings  <br>
 
 <b> Reflective Block (III) </b><br>
 <i> A chance to greatly or completely  negate incoming damage while blocking, and to reflect an incoming attack back on the attacker whether you are blocking or not. Requires Block III to apply </i><br>
